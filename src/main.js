@@ -13,3 +13,4 @@ console.log(dayjs().format("HH:mm"))
 
 // JS
 import "./modules/form/submit.js" // Importando o evento de submit do formulário
+import "./modules/load.js"
