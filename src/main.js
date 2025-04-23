@@ -9,8 +9,8 @@ import "./styles/form.css"
 import "./styles/schedule.css"
 
 import dayjs from "dayjs"
-console.log(dayjs().format("HH:mm"))
+console.log(dayjs().format("DD/MM HH:mm"))
 
 // JS
 import "./modules/form/submit.js" // Importando o evento de submit do formulário
-import "./modules/load.js"
+import "./modules/page-load.js"
