@@ -14,5 +14,6 @@ console.log(dayjs().format("DD/MM HH:mm"))
 // JS
 import "./modules/form/submit.js" // Importando o evento de submit do formulário
 import "./modules/form/date-change.js"
+import "./modules/schedules/cancel.js"
 
 import "./modules/page-load.js"
