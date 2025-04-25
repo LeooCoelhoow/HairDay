@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1745546666554,
+      "name": "Leonardo Coelho",
+      "when": "2025-04-25T22:00:00.000Z"
+    }
+  ]
 }

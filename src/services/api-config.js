@@ -1,3 +1,3 @@
 export const apiConfig = {
-  baseURL: "http://localhost:3000", // para API remoto utilizar "https"
+  baseURL: "http://localhost:3333", // para API remoto utilizar "https"
 }
